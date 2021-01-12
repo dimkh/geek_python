@@ -1,0 +1,5 @@
+This text is for counting lines and words.
+It's first line.
+It is second line.
+Finally, is's last line.
+The end.
